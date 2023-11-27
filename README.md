@@ -13,9 +13,7 @@ This script sets up a Flask web server to listen for incoming HTTP requests. It 
 
 ### Usage
 Run the server using the command:
-```bash
-python server.py
-```bash
+```bash python server.py ```bash
 
 
 ## 2. Client (`client.py`)
