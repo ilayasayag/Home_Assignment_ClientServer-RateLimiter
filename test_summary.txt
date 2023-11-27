@@ -1,0 +1,17 @@
+For 16 clients, request rate 6 per second, and duration 180 seconds, the system got 1072 requests, returned 1072 status code 200, 0 status code 503, and crashed 0 times.
+For 14 clients, request rate 9 per second, and duration 180 seconds, the system got 1568 requests, returned 1568 status code 200, 0 status code 503, and crashed 0 times.
+For 7 clients, request rate 10 per second, and duration 180 seconds, the system got 1743 requests, returned 1158 status code 200, 585 status code 503, and crashed 0 times.
+For 1 clients, request rate 2 per second, and duration 180 seconds, the system got 358 requests, returned 180 status code 200, 178 status code 503, and crashed 0 times.
+For 13 clients, request rate 8 per second, and duration 180 seconds, the system got 1417 requests, returned 1417 status code 200, 0 status code 503, and crashed 0 times.
+For 1 clients, request rate 6 per second, and duration 180 seconds, the system got 1067 requests, returned 180 status code 200, 887 status code 503, and crashed 0 times.
+For 8 clients, request rate 8 per second, and duration 180 seconds, the system got 1424 requests, returned 1424 status code 200, 0 status code 503, and crashed 0 times.
+For 16 clients, request rate 4 per second, and duration 180 seconds, the system got 720 requests, returned 720 status code 200, 0 status code 503, and crashed 0 times.
+For 19 clients, request rate 5 per second, and duration 180 seconds, the system got 893 requests, returned 893 status code 200, 0 status code 503, and crashed 0 times.
+For 7 clients, request rate 2 per second, and duration 180 seconds, the system got 357 requests, returned 357 status code 200, 0 status code 503, and crashed 0 times.
+For 16 clients, request rate 1 per second, and duration 120 seconds, the system got 128 requests, returned 128 status code 200, 0 status code 503, and crashed 0 times.
+For 7 clients, request rate 10 per second, and duration 60 seconds, the system got 588 requests, returned 387 status code 200, 201 status code 503, and crashed 0 times.
+For 9 clients, request rate 7 per second, and duration 180 seconds, the system got 1242 requests, returned 1242 status code 200, 0 status code 503, and crashed 0 times.
+For 20 clients, request rate 8 per second, and duration 60 seconds, the system got 480 requests, returned 480 status code 200, 0 status code 503, and crashed 0 times.
+For 2 clients, request rate 4 per second, and duration 60 seconds, the system got 240 requests, returned 120 status code 200, 120 status code 503, and crashed 0 times.
+For 6 clients, request rate 10 per second, and duration 180 seconds, the system got 1764 requests, returned 990 status code 200, 774 status code 503, and crashed 0 times.
+For 8 clients, request rate 1 per second, and duration 180 seconds, the system got 184 requests, returned 184 status code 200, 0 status code 503, and crashed 0 times.
