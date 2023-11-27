@@ -13,7 +13,7 @@ This script sets up a Flask web server to listen for incoming HTTP requests. It 
 
 ### Usage
 Run the server using the command:
-
+```bash
 python server.py
 
 
@@ -28,7 +28,7 @@ This script simulates multiple HTTP clients sending requests to the server. Each
 
 ### Usage
 Run the client simulation with the command:
-
+```bash
 python client.py
 
 Enter the desired number of clients to simulate when prompted.
@@ -44,7 +44,7 @@ The `tester.py` script is used for structured load testing of the server. It var
 
 ### Usage
 Run the load testing with the command:
-
+```bash
 python tester.py
 
 The script will run indefinitely until manually stopped. Check `test_summary.txt` for test results.
